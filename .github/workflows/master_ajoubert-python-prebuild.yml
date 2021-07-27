@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'ajoubert-python-prebuild'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_163643ac610244e5a37160bf03ec7be2 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_0358e067029f451b9c5f05ce72fb54a7 }}
